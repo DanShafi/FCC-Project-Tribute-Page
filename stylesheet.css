@@ -1,4 +1,5 @@
-#title {
-    font-family: Helvetica;
-    color: red;
+#main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
