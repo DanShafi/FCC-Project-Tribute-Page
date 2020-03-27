@@ -1,3 +1,14 @@
+#img-div {
+    background-color: black;
+
+}
+
 #image {
-    height: 400px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    color: white;
 }
