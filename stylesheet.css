@@ -1,5 +1,40 @@
+html {
+    background-color: #e9e9e9;
+}
+
+#title {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 47px;
+    letter-spacing: -0.005em;
+    color: #050505;
+    text-align: center;
+
+    /* Need to find a way to center the title. */
+}
+
+#headline {
+    text-align: center;
+}
+
+p {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+}
+
 #img-div {
     background-color: black;
+    /* padding-right: 100px;
+    padding-left: 100px; */
 
 }
 
@@ -11,4 +46,10 @@
 
 #img-caption {
     color: white;
+}
+
+main {
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
 }
